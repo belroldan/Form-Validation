@@ -1,0 +1,9 @@
+.container {
+  max-width: 960px;
+}
+
+#terminoslabel {
+  color: rgb(211, 59, 59);
+  display: flexbox;
+  
+}
